@@ -8,7 +8,9 @@
 #title{
 	color: black;
 	font-size: 48px;
-	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;	
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: 700;
+	margin-top: 16px;	
 }
 
 #descriptionContainer{		
@@ -20,7 +22,7 @@
 }
 
 #description{	
-	color: red;
+	color: rgb(230, 3, 3);
 	font-size: 32px;	
 }
 
@@ -31,6 +33,7 @@
 }
 
 #imageContainer{	
+	margin-top: 16px;
 	display: flex;
 	flex-direction: row;
 	gap: 16px;
