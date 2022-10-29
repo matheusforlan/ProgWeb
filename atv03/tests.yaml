@@ -1,0 +1,8 @@
+- input: "-10\n"
+  match: .*\b14.0.*
+
+- input: "8.5\n"
+  match: .*\b47.3.*
+
+- input: "0\n"
+  match: .*\b32.0.*
